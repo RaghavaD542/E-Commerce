@@ -1,4 +1,3 @@
-```markdown
 # E-Commerce
 
 ## Overview
@@ -65,4 +64,4 @@ This is a simple E-Commerce Website with two types of users: Normal User and Adm
 ### Database:
 
 - SQLite 
-```
+
